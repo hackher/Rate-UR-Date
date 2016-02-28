@@ -107,7 +107,7 @@ section{
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: red}
+.button:hover {background-color: red;}
 
 .button:active {
   background-color: red;
