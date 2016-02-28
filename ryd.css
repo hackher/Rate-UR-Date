@@ -17,7 +17,7 @@ body {
 ul.sitenav {
     list-style-type: none;
     margin: 0;
-    padding: 0 0 0 95px;
+    padding: 0 0 0 90px;
     overflow: hidden;
     background-color: #707070;
 }
@@ -31,7 +31,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 10px 10px;
+    padding: 14px 10px;
     text-decoration: none;
 }
 
